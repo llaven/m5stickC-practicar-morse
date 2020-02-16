@@ -1,5 +1,5 @@
 # m5stickC-practicar-morse
-Programa para M5stickC y practicar código morse, reutilicé el código de Eric Ayars morse.pde que originalmente es para utilizarlo en un Attiny. Por el momento el código envía una serie de caracteres (KMRSUA) de forma aleatoria al concluir el envío aparece en pantalla los caracteres para comprobar su tu copia (recepción) del código morse fue la correcta.
+Programa para M5stickC y practicar código morse, reutilicé el código de Eric Ayars morse.pde que originalmente es para utilizarlo en un Attiny. Por el momento el código envía una serie de caracteres (KMRSUA) de forma aleatoria al concluir el envío aparece en pantalla los caracteres para comprobar si tu copia (recepción) del código morse fue la correcta.
 
 
 ![M5StickC practica morse](https://www.emilio.com.mx/imagenes/m5stickc-morse-01.jpg)
